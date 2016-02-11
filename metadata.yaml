@@ -1,0 +1,33 @@
+_repo: Through-the-Gates-of-Old-Romance_47702
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+creator:
+  author:
+    agent_name: Mills, Weymer Jay
+    alias: Mills, W. Jay (Weymer Jay)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '38578'
+    url: http://www.gutenberg.org/2009/agents/38578
+description: ''
+gutenberg_issued: '2014-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47702'
+  lccn: 03029279
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freneau, Philip Morin, 1752-1832 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rowson, Mrs., 1762-1824 -- Fiction'
+- !lcsh 'Burr, Aaron, 1756-1836 -- Fiction'
+title: Through the Gates of Old Romance
+url: http://www.gutenberg.org/ebooks/47702
